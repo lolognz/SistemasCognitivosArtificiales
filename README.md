@@ -1,3 +1,3 @@
-# SistemasCognitivosdeAprendizaje
+# SistemasCognitivosArtificiales
 
-Repositorio para las practicas de sistemas cognitivos de aprendizaje
+Repositorio para las practicas de sistemas Cognitivos Artificiales
